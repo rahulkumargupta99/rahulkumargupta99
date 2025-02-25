@@ -71,9 +71,6 @@ Task management with real-time updates and local storage support. <br>
   <img src="https://github-readme-stats.vercel.app/api?username=rahulkumargupta99&show_icons=true&locale=en" alt="rahulkumargupta99" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumargupta99&" alt="rahulkumargupta99" />
-</p>
 
 ---
 
