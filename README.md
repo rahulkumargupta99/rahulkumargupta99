@@ -31,22 +31,22 @@
 ### 🍕 [Tomato Food Delivery Website](https://food-del-frontend-fu07.onrender.com/)
 A full-featured online food delivery platform with Stripe payment integration. <br>
 **Tech Used:** ReactJS, Node.js, Express, MongoDB, Stripe API <br>
-![Tomato Food Delivery](https://via.placeholder.com/600x300.png?text=Tomato+Food+Delivery)
+
 
 ### 💬 [Realtime Chat App](https://github.com/rahulkumargupta99/Chat-app)
 A real-time chat application with Firebase authentication. <br>
 **Tech Used:** ReactJS, Firebase, Bootstrap <br>
-![Chat App](https://via.placeholder.com/600x300.png?text=Realtime+Chat+App)
+
 
 ### 🏡 [Real-Estate Website](https://e-state-beige.vercel.app/)
 A real estate web app to search properties based on location, price, and type. <br>
 **Tech Used:** ReactJS, Tailwind CSS <br>
-![Real Estate](https://via.placeholder.com/600x300.png?text=Real+Estate+Website)
+
 
 ### ✅ [To-Do List App](https://todo-list-app-flax-two.vercel.app/)
 A simple yet efficient task management app with local storage. <br>
 **Tech Used:** JavaScript, ReactJS, HTML, CSS <br>
-![To-Do List](https://via.placeholder.com/600x300.png?text=To-Do+List+App)
+
 
 ---
 
